@@ -4,4 +4,4 @@ The Raspberry Pi Zero Dynamixel Hat it's an easy to use hardware that allows you
 
 It also implements a MAX17633BATP+ which is a synchronous step-down DC-DC converter optimized for applications with high power density, This regulator will let you power your Raspberry directly from a battery and also provide power to your motors.
 
-![dynamixelHat](https://raw.githubusercontent.com/JosueAGtz/RaspberryPi-dynamixelHat/main/Hardware/Dynamixel%20Hat%20Maxim%20Pinout.PNG)
+![dynamixelHat](https://raw.githubusercontent.com/JosueAGtz/dynamixelHat/main/Hardware/Dynamixel%20Hat%20Pinout.png)
